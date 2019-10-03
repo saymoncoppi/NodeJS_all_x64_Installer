@@ -7,8 +7,8 @@ Download the script [here](https://raw.githubusercontent.com/saymoncoppi/NodeJS_
 Make this file an executable: sudo chmod +x NodeJS_all_x64_Installer.sh \
 Run sudo ./NodeJS_all_x64_Installer.sh
 
-or simply:
-$: wget -qO- https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh | sudo bash \
+or simply: \
+wget -qO- https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh | sudo bash
 
 Done! The latest version was installed.
 
