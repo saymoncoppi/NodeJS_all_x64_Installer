@@ -3,10 +3,12 @@ A bash script to automate the install or update NodeJS on any Linux x64 distro.
 
 
 ## Howto:
-Download the script [here](https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh) or use: \
-$: wget -qO- https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh | sudo bash \
+Download the script [here](https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh) \
 Make this file an executable: sudo chmod +x NodeJS_all_x64_Installer.sh \
-Run sudo ./NodeJS_all_x64_Installer.sh \
+Run sudo ./NodeJS_all_x64_Installer.sh
+
+or simply:
+$: wget -qO- https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh | sudo bash \
 
 Done! The latest version was installed.
 
