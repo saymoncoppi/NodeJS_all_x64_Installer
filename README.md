@@ -2,6 +2,9 @@
 A bash script to automate the install or update NodeJS on any Linux x64 distro. 
 
 
+[![nodejs-logo](https://raw.githubusercontent.com/nodejs/nodejs.org/master/static/images/logo-light.png)](https://nodejs.org)
+
+
 ## Howto:
 Download the script [here](https://raw.githubusercontent.com/saymoncoppi/NodeJS_all_x64_Installer/master/NodeJS_all_x64_Installer.sh) \
 Make this file an executable: sudo chmod +x NodeJS_all_x64_Installer.sh \
@@ -21,6 +24,7 @@ Check here https://github.com/nodejs/Release/issues/480
 ## Benefits
 - No extra tools;
 - No exclusive distros;
-- No Snap installation;
+- No Snap required installation;
+- No PPAs or proprietary packages;
 - Choose w or w/o NPM modules; 
 - Only One script, only necessary files.
